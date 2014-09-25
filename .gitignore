@@ -1,3 +1,7 @@
+platforms/
+hooks
+.cordova
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -36,6 +40,3 @@ Icon
 .Trashes
 
 
-platforms/
-hooks
-.cordova
